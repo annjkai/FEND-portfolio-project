@@ -10,7 +10,7 @@ It was reviewed by an expert Udacity reviewer.
 
 The page is created as a mobile-first, responsive layout. It contains the following elements:
 * Navbar Header
-    *Logo, name and social media icons
+    * Logo, name and social media icons
 * Main image
     * Changes size depending on screen
 * `<h1>` & `<p>` elements
