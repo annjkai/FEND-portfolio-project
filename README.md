@@ -38,6 +38,7 @@ The following changes happen at breakpoints:
 The images either, were created by me or were sourced from places like pexels.com, which falls under a
 CC0 License and does not require attribution, though I've added the sources anyway.
 I scaled down and cropped the full-size images so they were square.
+
 *Images*
 * [Header image from pexels.com](https://www.pexels.com/photo/adventure-alpine-background-black-and-white-355770/)
 * Tiles from pexels.com
