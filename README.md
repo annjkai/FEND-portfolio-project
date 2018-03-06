@@ -39,14 +39,14 @@ The images either, were created by me or were sourced from places like pexels.co
 CC0 License and does not require attribution, though I've added the sources anyway.
 I scaled down and cropped the full-size images so they were square.
 *Images*
-[Header image from pexels.com](https://www.pexels.com/photo/adventure-alpine-background-black-and-white-355770/)
-Tiles from pexels.com
-[One](https://www.pexels.com/photo/iphone-notebook-pen-working-34088/)  [Two](https://www.pexels.com/photo/books-stack-old-antique-33283/)  [Three](https://www.pexels.com/photo/black-and-white-browsing-business-coffee-265152/)  [Four](https://www.pexels.com/photo/grayscale-photo-of-computer-laptop-near-white-notebook-and-ceramic-mug-on-table-169573/)
+* [Header image from pexels.com](https://www.pexels.com/photo/adventure-alpine-background-black-and-white-355770/)
+* Tiles from pexels.com
+   * [One](https://www.pexels.com/photo/iphone-notebook-pen-working-34088/)  [Two](https://www.pexels.com/photo/books-stack-old-antique-33283/)  [Three](https://www.pexels.com/photo/black-and-white-browsing-business-coffee-265152/)  [Four](https://www.pexels.com/photo/grayscale-photo-of-computer-laptop-near-white-notebook-and-ceramic-mug-on-table-169573/)
 
 *Icons*
-_CodePen Icon_ made by [Freepik](http://www.freepik.com) from www.flaticon.com, licensed by CC 3.0 BY
-_LinkedIn Icon_ made by [Bogdan Rosu](https://www.flaticon.com/authors/bogdan-rosu) from www.flaticon.com, licensed by CC 3.0 BY
-_GitHub Icon_ made by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from www.flaticon.com, licensed by CC 3.0 BY
+* _CodePen Icon_ made by [Freepik](http://www.freepik.com) from www.flaticon.com, licensed by CC 3.0 BY
+* _LinkedIn Icon_ made by [Bogdan Rosu](https://www.flaticon.com/authors/bogdan-rosu) from www.flaticon.com, licensed by CC 3.0 BY
+* _GitHub Icon_ made by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from www.flaticon.com, licensed by CC 3.0 BY
 
 ## Future Plans
 
