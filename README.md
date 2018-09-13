@@ -1,7 +1,9 @@
 
 # Udacity FEND Portfolio Project
 
-## Project Description
+## Project Overview
+
+**Project acceptance date: 7 March 2018**
 
 This portfolio page was created based on Udacity rubrics (link: https://review.udacity.com/#!/rubrics/45/view).
 It was reviewed by an expert Udacity reviewer.
